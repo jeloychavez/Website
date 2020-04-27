@@ -7,7 +7,7 @@ comments: true
 # Blog Settings
 theme_settings :
   title : tan(x) blog
-  favicon : assets/favicon.ico
+  favicon : assets/python.ico
   comments : True
   disqus_shortname : 'https-tanzng-github-io'
 
