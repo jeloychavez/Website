@@ -45,9 +45,9 @@
         transform: scale(1);
 
         overflow: hidden;
-        background-color: #fff;
+        background-color: rgb(44, 44, 44);
         border-radius: 10px;
-        box-shadow: rgba($theme-dark2, 0.15) 0px 1px 5px;
+        //box-shadow: rgba($theme-dark2, 0.15) 0px 1px 5px;
         .img-wrap {
           position: relative;
           overflow: hidden;
@@ -76,13 +76,13 @@
             font-weight: 600;
           }
           .date {
-            color: rgba(0, 0, 0, 0.5);
+            color: rgba(255, 255, 255, 0.60);
             font-size: 0.75rem;
             margin: 0;
           }
           .meta,
           .meta span {
-            color: rgba(0, 0, 0, 0.5);
+            color:rgba(255, 255, 255, 0.60);
             font-size: 0.75rem;
             margin: 3px 0 10px;
           }
@@ -105,14 +105,14 @@
               i {
                 width: 30px;
                 height: 30px;
-                background-color: rgba(0, 0, 0, 0.07);
+                background-color: rgba(0, 0, 0, 0.40);
                 border-radius: 50%;
                 font-size: 0.8rem;
                 line-height: 1.8rem;
               }
             }
             a.modal-btn i {
-              background-color: $theme-dark;
+              background-color: $open;
               color: #fff;
               font-size: 0.75rem;
             }
@@ -124,22 +124,28 @@
         -ms-transform: scale(1.03);
         -o-transform: scale(1.03);
         transform: scale(1.03);
-        box-shadow: rgba($theme-dark2, 0.15) 0px 5px 15px;
+        //box-shadow: rgba($theme-dark2, 0.15) 0px 5px 15px;
         .icons{
           a {
+            .fa-plus{
+              background-color: $open;
+            }
+            .fa-plus:hover{
+              background-color: $open2;
+            }
             i {
               -webkit-transition-duration: 0.5s;
               -moz-transition-duration: 0.5s;
               -ms-transition-duration: 0.5s;
               -o-transition-duration: 0.5s;
               transition-duration: 0.5s;
-              background-color: $theme-color;
+              background-color: $openbi;
               color: #fff;
             }
           }
           a:hover {
             i {
-              background-color: $theme-dark;
+              background-color: $openbi2;
               color: #fff;
             }
           }

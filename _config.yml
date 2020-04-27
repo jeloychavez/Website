@@ -1,30 +1,30 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://tanzng.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : tan(x) Blog
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    username : Tania R. Zúñiga
+    description : Computer Engineering student at Universidad Autónoma Metropolitana.
     experience :
       - start : 2017-05-03
         end : 2018-05-06
         experience : company name, title
     skills : 
-      - skill : HTML5 & CSS
-        value : 85  # Percent value
+      - skill : Python & C++
+        value : 70  # Percent value
         
   # Icons
   icons :
     email:  # Full email address, e.g. "sample@google.com"
-    linkedin:  # Full URL 
-    github: naye0ng
+    linkedin: https://www.linkedin.com/in/tania-r-z%C3%BA%C3%B1iga-b0a969158/ # Full URL 
+    github: TanZng
     gitlab: 
     bitbucket: 
     google_plus:
