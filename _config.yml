@@ -1,13 +1,14 @@
 # Site Settings
 baseurl: ""
 url : "https://tanzng.github.io"
+disqus_shortname : 'https-tanzng-github-io'
 
 # Blog Settings
 theme_settings :
   title : tan(x) blog
   favicon : assets/favicon.ico
   comments : True
-  disqus_shortname : "https-tanzng-github-io"
+  disqus_shortname : 'https-tanzng-github-io'
 
   # Profile Settings
   profile :
