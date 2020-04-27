@@ -8,7 +8,7 @@ layout: page
     {% for tag in site.tags %}
     <a href="#{{ tag | first | slugize }}">
       <li class="tag"
-      style="background-color: rgba(39, 70, 132, {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 50 | divided_by: 100.0}})">
+      style="background-color: rgba(99, 146, 207, {{ tag | last | size | times: 1 | divided_by: site.tags.size | plus: 0.7 | divided_by: 2.02}})">
         {{ tag | first }}
         <span class="meta">{{ tag | last | size }}</span>
       </li>
