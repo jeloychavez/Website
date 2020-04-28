@@ -10,7 +10,7 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
+    image : assets/img/tanNoBG.png
     username : Tania R. Zúñiga
     description : Computer Engineering student at Universidad Autónoma Metropolitana.
     experience :
