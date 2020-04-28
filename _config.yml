@@ -1,15 +1,12 @@
 # Site Settings
 baseurl: ""
 url : "https://tanzng.github.io"
-disqus_shortname : 'https-tanzng-github-io'
 comments: true
 
 # Blog Settings
 theme_settings :
   title : tan(x) blog
   favicon : assets/python.ico
-  comments : True
-  disqus_shortname : 'https-tanzng-github-io'
 
   # Profile Settings
   profile :
@@ -38,7 +35,7 @@ theme_settings :
     instagram:
 
   # Disqus
-  disqus_shortname :
+  disqus_shortname : https-tanzng-github-io
 
 # Pagination
 paginate: 5
