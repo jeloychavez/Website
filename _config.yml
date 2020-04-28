@@ -14,12 +14,14 @@ theme_settings :
     username : Tania R. Zúñiga
     description : Computer Engineering student at Universidad Autónoma Metropolitana.
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2020-05-04
+        end : Until now
+        experience : UAM, PAEA Facilitator
     skills : 
-      - skill : Python & C++
-        value : 70  # Percent value
+      - skill : Python
+        value : 60  # Percent value
+      - skill : C++
+        value : 50  # Percent value      
         
   # Icons
   icons :
