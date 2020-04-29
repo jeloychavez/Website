@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/TanZng/tanzng.github.io.svg?branch=master)](https://travis-ci.org/TanZng/tanzng.github.io)
 # Grape-Theme
 
 ![home](./assets/img/home.png)
