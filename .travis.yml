@@ -1,0 +1,23 @@
+language: ruby
+
+rvm:
+ - 2.5
+
+before_install: |
+    gem install bundler
+    git config --global user.email "fdavidcl@example.org"
+    git config --global user.name "Tan (Bot)"
+    [ "${TRAVIS_PULL_REQUEST}" = "false" ] && \
+    git clone -b dev https://${MY_TOKEN}@github.com/cmvp-jekyll/example.git .site
+
+script: |
+    bundle exec jekyll build -d .site
+    touch .site/.nojekyll
+
+after_success: |
+    cd .site/
+    [ "${TRAVIS_PULL_REQUEST}" = "false" ] && \
+    git add * && \
+    git add . --all && \
+    git commit -m "Actualización: `date`" && \
+    git push origin master --quiet
