@@ -1,6 +1,7 @@
 # Site Settings
 baseurl: ""
 url : "https://tanzng.github.io"
+production_url : http://www.taniazuniga.mx/
 
 # Blog Settings
 theme_settings :
