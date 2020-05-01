@@ -6,6 +6,7 @@ url : "https://tanzng.github.io"
 theme_settings :
   title : tan(x)
   favicon : assets/favicon.ico
+  blog : "> tan(x) blog "
 
   # Profile Settings
   profile :

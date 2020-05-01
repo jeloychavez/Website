@@ -106,7 +106,7 @@ a:link, a:visited, a:active, a:hover {
 .highlighter-rouge {
     font-size: 0.9rem;
     color: $theme-color;
-    background-color: $theme-bright;
+    background-color: #272822;
     padding: .1em .5em;
 	border-radius: 3px;
 	font-weight: 900;
@@ -175,3 +175,60 @@ a:link, a:visited, a:active, a:hover {
 	}
 
 }
+
+.blinking-cursor {
+	margin-left: 1px;
+	font-weight: 600;
+	font-size: 30px;
+	color: #2E3D48;
+	-webkit-animation: 1s blink step-end infinite;
+	-moz-animation: 1s blink step-end infinite;
+	-ms-animation: 1s blink step-end infinite;
+	-o-animation: 1s blink step-end infinite;
+	animation: 1s blink step-end infinite;
+  }
+  
+@keyframes blink {
+	from, to {
+	  color: transparent;
+	}
+	50% {
+	  color: $text;
+	}
+  }
+  
+@-moz-keyframes blink {
+	from, to {
+	  color: transparent;
+	}
+	50% {
+	  color: $text;
+	}
+  }
+  
+@-webkit-keyframes blink {
+	from, to {
+	  color: transparent;
+	}
+	50% {
+	  color: $text;
+	}
+  }
+  
+@-ms-keyframes blink {
+	from, to {
+	  color: transparent;
+	}
+	50% {
+	  color: $text;
+	}
+  }
+  
+@-o-keyframes blink {
+	from, to {
+	  color: transparent;
+	}
+	50% {
+	  color: $text;
+	}
+  }

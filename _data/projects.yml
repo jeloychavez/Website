@@ -32,8 +32,8 @@
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
     image : # path: assets/project/
-    date : 2020.04.27 - Learning
-    title : Cryptography I
-    summary : Learning from my mistakes
-    description : Taking Cryptography I from Stanford University at Coursera
+    date : 2020.04.25 - Learning
+    title : Google IT Automation with Python Professional Certificate
+    summary : Right now I'm improving my skill on Python.
+    description : Taking Google IT Automation with Python Professional Certificate on Coursera
 
