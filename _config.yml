@@ -4,12 +4,12 @@ url : "https://tanzng.github.io"
 
 # Blog Settings
 theme_settings :
-  title : tan(x) blog
-  favicon : assets/python.ico
+  title : tan(x)
+  favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
-    image : assets/img/tanNoBG.png
+    image : assets/img/smile.png
     username : Tania R. Zúñiga
     description : Computer Engineering student at Universidad Autónoma Metropolitana.
     experience :
