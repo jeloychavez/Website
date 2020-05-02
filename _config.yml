@@ -26,7 +26,7 @@ theme_settings :
   # Icons
   icons :
     email: taniazuniga.mx@gmail.com  # Full email address, e.g. "sample@google.com"
-    linkedin: https://www.linkedin.com/in/tania-r-z%C3%BA%C3%B1iga-b0a969158/ # Full URL 
+    linkedin: https://www.linkedin.com/in/tania-r-z%C3%BA%C3%B1iga/ # Full URL 
     github: TanZng
     gitlab: 
     bitbucket: 
