@@ -1,14 +1,18 @@
 #post{
-    -webkit-user-select:text;-webkit-touch-callout:text;
+    -webkit-user-select:text;
+    -webkit-touch-callout:text;
     @extend %page-padding;
     .post-header{
         padding-bottom : 60px;
         text-align: center;
         .title{
+            color: $theme-color;
             margin-bottom: 0px;
         }
         .subtitle{
             font-size : 1.2rem;
+            color: $text;
+            font-weight: initial;
         }
         .meta{
             color : $text-gray;
@@ -19,6 +23,15 @@
     .post-content{
         overflow: hidden;
         margin-bottom: 100px;
+        color: $text2;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    h1, h2, h3, h4, h5, h6, strong{
+        color: $text;
+        font-weight: bolder;
+    }
+    img{
+        box-shadow: none;
     }
 }
 .top-btn{

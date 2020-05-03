@@ -70,8 +70,8 @@
 
 
 // http://jwarby.github.io/jekyll-pygments-themes/languages/python.html 
-.highlight pre { background-color: #272822; }
-.highlight .hll { background-color: #272822; }
+.highlight pre { background-color: $simple_code; }
+.highlight .hll { background-color: $simple_code; }
 .highlight .c { color: #c1bb9d; } /* Comment */
 .highlight .err { color: #960050; background-color: #1e0010 } /* Error */
 .highlight .k { color: #66d9ef } /* Keyword */

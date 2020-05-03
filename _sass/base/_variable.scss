@@ -2,14 +2,18 @@ $theme-color : #6ca9ff;
 $theme-bright : rgba(248, 245, 250, 0.1);
 $theme-dark : rgb(105, 181, 247);
 $theme-dark2 : rgb(99, 146, 207);
-$text : rgba(255, 255, 255, 0.90);
-$text-gray : rgba(255, 255, 255, 0.60);
+$text : rgba(255, 255, 255, 0.85);
+$text2 : rgba(255, 255, 255, 0.70);
+$text-gray : rgba(255, 255, 255, 0.466);
 $close: rgb(255, 90, 82);
 $close2: hsl(0, 44%, 48%);
 $open: rgb(126, 173, 50); // open button fa-plus
 $open2: rgba(108, 163, 45, 0.80);
 $openbi: rgb(99, 146, 207); //other buttons 
 $openbi2: rgb(70, 123, 192);
+$simple_code: rgb(65, 65, 65);
+$simple_codeBG: rgba(196, 196, 196, 0.753);
+$blockquote: rgba(196, 196, 196, 0.753);
 
 .darkmode-layer, .darkmode-toggle {
     z-index: 500;
