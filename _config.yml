@@ -43,10 +43,12 @@ theme_settings :
 paginate: 5
 paginate_path: "blog/page:num"
 
-# Build Ssttings
+# Build Settings
 sass:
   sass_dir: _sass
   style: :compressed
-gems: [jekyll-paginate]
+gems: [jekyll-paginate, jekyll-sitemap]
+plugins:
+  - jekyll-sitemap
 bootstrap:
   assets: true
