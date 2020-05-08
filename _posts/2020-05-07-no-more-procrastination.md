@@ -2,7 +2,7 @@
 layout: post
 title: Dejar de hacer la procrastinación
 subtitle: ¿Como dejar de procrastinar?
-tags: [LifeStyle]
+tags: [Life Style]
 author: Tania R. Zúñiga
 comments : true
 ---
