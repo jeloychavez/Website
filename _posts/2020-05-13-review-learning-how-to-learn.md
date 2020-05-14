@@ -2,7 +2,7 @@
 layout: post
 title: Review Aprendiendo a aprender
 subtitle : ¿Por qué debería aprender a aprender?
-tags: [TAG1, TAG2]
+tags: [Review, Life Style]
 author: Tania R. Zúñiga
 comments : true
 ---
