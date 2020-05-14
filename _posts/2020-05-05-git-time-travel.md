@@ -36,7 +36,7 @@ Podría decirse que `git reset` es lo contrario a `git add`.
 <br>
 
 > *
-> Si no sabes que es el staged area en el post de [aquí](../_posts/2020-05-03-git-primeros-pasos.md) te lo cuento.
+> Si no sabes que es el staged area en el post de [aquí]( {% post_url 2020-05-03-git-primeros-pasos %} ) te lo cuento.
 
 <br>
 

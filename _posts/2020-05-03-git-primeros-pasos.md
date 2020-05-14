@@ -7,7 +7,7 @@ author: Tania R. Zúñiga
 comments : true
 ---
 
-En un [post anterior](https://tanx.dev/2020/04/30/before-cv.html) hable de como podemos comparar dos archivos y resaltar sus diferencias desde nuestro Terminal.
+En un [post anterior]( {% post_url 2020-04-30-before-cv %} ) hable de como podemos comparar dos archivos y resaltar sus diferencias desde nuestro Terminal.
 
 Sin embargo, hacer una copia cada que hacemos un cambio no suena como una solución eficiente, pues luego de un tiempo tendremos muchos archivos con nombres tipo: &nbsp;*final.py*,  &nbsp;*final-final.py*, &nbsp;*final-real-cambios.py*, &nbsp;etc. 
 
@@ -17,7 +17,7 @@ Sacar copias no parece una solución viable. Por suerte tenemos una herramienta 
 
 <br>
 
-Ahora quiero aclarar que Git es una herramienta que nos ayuda llevar el registro de los cambios de todo tipo de proyectos, no solo de código y lo te cuento en el post de [aca](https://tanx.dev/2020/04/30/git-es-para-todos.html).
+Ahora quiero aclarar que Git es una herramienta que nos ayuda llevar el registro de los cambios de todo tipo de proyectos, no solo de código y lo te cuento en el post de [aca]( {% post_url 2020-05-02-git-es-para-todos %} ).
 
 <br>
 

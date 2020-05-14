@@ -23,7 +23,8 @@ Personalmente a mi también me pasa, a veces pierdo mucho tiempo revisando faceb
 
 <br>
 
-Buscando, buscando me encontré con un curso llamado ["Aprendiendo a aprender"](https://www.coursera.org/learn/aprendiendo-a-aprender/), impartido por la Dra. Barbara Oakley (actualmente lo estoy tomando y me está gustando mucho, cuando lo termine escribiré una review). 
+Buscando, buscando me encontré con un curso llamado ["Aprendiendo a aprender"](https://www.coursera.org/learn/aprendiendo-a-aprender/), impartido por la Dra. Barbara Oakley (actualmente lo estoy tomando y me está gustando mucho, cuando lo termine escribiré una review [aquí]({% post_url 2020-05-13-review-learning-how-to-learn %}). 
+
 
 <br>
 
