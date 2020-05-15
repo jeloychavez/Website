@@ -106,7 +106,7 @@ No esperes que estudiar de un día antes del examen funcione. Es como hacer pesa
 
 <br>
 
-Para organizarte puedes hacer una lista al inicio de la semana con **actividades clave** para las semana. En este post les como hacer algo así.
+Para organizarte puedes hacer una lista al inicio de la semana con **actividades clave** para las semana. En un futuro post, aquí, les contare como hacer algo así con Notion.
 
 <br>
 
