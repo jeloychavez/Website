@@ -139,7 +139,7 @@ Finalmente es muy importante que no solo planifiques tus horas de trabajo, sino 
 
 <br>
 
-Trabajar 25 min, 30 min, 1 hora, etc; como tú te sientas comodo pero descansa, date un premio y **luego continua** 👍🏼. Esto se le conoce como [Técnica Pomodoro](https://es.wikipedia.org/wiki/T%C3%A9cnica_Pomodoro) (Yo la hizo pero con diferentes tiempos para cambiar un poco la rutina).
+Trabajar 25 min, 30 min, 1 hora, etc; como tú te sientas cómodo pero descansa, date un premio y **luego continua** 👍🏼. Esto se le conoce como [Técnica Pomodoro](https://es.wikipedia.org/wiki/T%C3%A9cnica_Pomodoro) (Yo la uso pero con diferentes tiempos para cambiar un poco la rutina).
 
 <br>
 
