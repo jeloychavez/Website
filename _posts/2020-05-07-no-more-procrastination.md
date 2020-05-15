@@ -110,7 +110,7 @@ Para organizarte puedes hacer una lista al inicio de la semana con **actividades
 
 <br>
 
-También hacer una *to-do* list diaria 📝 es muy efectivo. Esta última es mejor hacer una noche antes. Sí antes ir a dormir, así tu subconsciente "se queda" con las actividades que harás al otro día.
+También hacer una *to-do* list diaria 📝 es muy efectivo. Esta última es mejor hacerla una noche antes. Sí antes ir a dormir, así tu subconsciente "se queda" con las actividades que harás al otro día.
 
 <br>
 
