@@ -49,7 +49,7 @@ En un árbol, la raíz siempre está en el Nivel 0 y los hijos de la raíz está
 
 <h2>Recorrido de árboles</h2>
 
-Hay diversas formas de recorrer todos los nodos de un árbol. Explicare en pseudocódigo los cuatro recorridos más comunes. Para ello vamos a tomar en cuenta que los nodos de nuestro árbol tienen los siguientes métodos:
+Hay diversas formas de recorrer todos los nodos de un árbol. Explicaré en pseudocódigo los cuatro recorridos más comunes. Para ello vamos a tomar en cuenta que los nodos de nuestro árbol tienen los siguientes métodos:
 
 <h6>INodo (Interfaz Nodo)</h6>
 
