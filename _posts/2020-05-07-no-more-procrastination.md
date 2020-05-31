@@ -23,7 +23,7 @@ Personalmente a mi también me pasa, a veces pierdo mucho tiempo revisando faceb
 
 <br>
 
-Buscando, buscando me encontré con un curso llamado ["Aprendiendo a aprender"](https://www.coursera.org/learn/aprendiendo-a-aprender/), impartido por la Dra. Barbara Oakley (actualmente lo estoy tomando y me está gustando mucho, cuando lo termine escribiré una review [aquí]({% post_url 2020-05-13-review-learning-how-to-learn %}). 
+Buscando, buscando me encontré con un curso llamado ["Aprendiendo a aprender"](https://www.coursera.org/learn/aprendiendo-a-aprender/), impartido por la Dra. Barbara Oakley. Escribí una review del curso aquí[aquí]({% post_url 2020-05-13-review-learning-how-to-learn %}). 
 
 
 <br>
@@ -106,7 +106,7 @@ No esperes que estudiar de un día antes del examen funcione. Es como hacer pesa
 
 <br>
 
-Para organizarte puedes hacer una lista al inicio de la semana con **actividades clave** para las semana. En un futuro post, aquí, les contare como hacer algo así con Notion.
+Para organizarte puedes hacer una lista al inicio de la semana con **actividades clave** para la semana. En un futuro post, aquí, les contare como hacer algo así con [Notion](https://www.notion.so/).
 
 <br>
 
