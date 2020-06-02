@@ -201,8 +201,7 @@ Si queremos usar alguna imagen personalizada, en "Carpeta:" seleccionamos la ubi
 
 Descarga el *wallpaper* que use <a target="_blank" id="raw-url" href="https://raw.githubusercontent.com/TanZng/tanzng.github.io/master/assets/img/modernXubuntu/wall_spaceX.jpg">aquí</a>.
 
-Descarga el ícono que use <a target="_blank" id="raw-url" href="https://raw.githubusercontent.com/TanZng/tanzng.github.io/master/assets/img/modernXubuntu/wall_spaceX.jpg">aquí</a>.
-
+Descarga el ícono que use <a target="_blank" id="raw-url" href="https://image.flaticon.com/icons/svg/214/214337.svg">aquí</a>.
 
 <br>
 
