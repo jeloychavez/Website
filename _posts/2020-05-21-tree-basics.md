@@ -80,6 +80,8 @@ Hay diversas formas de recorrer todos los nodos de un árbol. Explicaré en pseu
 <h3>Preorden</h3>
 
 <pre id="preorden" style="display:hidden;">
+\begin{algorithm}
+\caption{Preorden}
 \begin{algorithmic}
 \FUNCTION{Preorden}{INodo $n$}
     \IF{ $n$ es valido } 
@@ -89,6 +91,7 @@ Hay diversas formas de recorrer todos los nodos de un árbol. Explicaré en pseu
     \ENDIF
 \ENDFUNCTION
 \end{algorithmic}
+\end{algorithm}
 </pre>
 
 <br>
@@ -100,6 +103,8 @@ Si recorremos el *Árbol azul* en Preorden obtendremos: \[A, B, F, C, G, K, H, I
 <h3>Inorden</h3>
 
 <pre id="inorden" style="display:hidden;">
+\begin{algorithm}
+\caption{Inorden}
     \begin{algorithmic}
     \FUNCTION{Inorden}{INodo $n$}
         \IF{ $n.hijoIzquierdo( )$ no es valido } 
@@ -115,6 +120,7 @@ Si recorremos el *Árbol azul* en Preorden obtendremos: \[A, B, F, C, G, K, H, I
         \ENDIF
     \ENDFUNCTION
     \end{algorithmic}
+    \end{algorithm}
 </pre>
 
 <br>
@@ -126,6 +132,8 @@ Si recorremos el *Árbol azul* en Inorden obtendremos: \[F, B, A, K, G, C, H, I,
 <h3>Postorden</h3>
 
 <pre id="postorden" style="display:hidden;">
+\begin{algorithm}
+\caption{Inorden}
     \begin{algorithmic}
     \FUNCTION{Postorden}{INodo $n$}
         \IF{ $n$ es valido } 
@@ -135,6 +143,7 @@ Si recorremos el *Árbol azul* en Inorden obtendremos: \[F, B, A, K, G, C, H, I,
         \ENDIF
     \ENDFUNCTION
     \end{algorithmic}
+    \end{algorithm}
 </pre>
 
 <br>
@@ -146,6 +155,8 @@ Si recorremos el *Árbol azul* en Postorden obtendremos: \[F, B, K, G, H, I, C, 
 <h3>Por nivel</h3>
 
 <pre id="nivel" style="display:hidden;">
+\begin{algorithm}
+\caption{Level Order}
     \begin{algorithmic}
     \FUNCTION{Nivel}{INodo $n$}
         \STATE Queue $q$
@@ -161,6 +172,7 @@ Si recorremos el *Árbol azul* en Postorden obtendremos: \[F, B, K, G, H, I, C, 
         \ENDWHILE
     \ENDFUNCTION
     \end{algorithmic}
+    \end{algorithm}
 </pre>
 
 <br>

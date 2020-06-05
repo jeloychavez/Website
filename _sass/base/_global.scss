@@ -233,3 +233,14 @@ a:link, a:visited, a:active, a:hover {
 	  color: $text;
 	}
   }
+
+  // pseudocode.js
+  .ps-algorithm {
+	color: white;
+	border-top: 2px solid $text !important;
+	border-bottom: 2px solid $text !important;
+  }
+  
+  .with-caption > .ps-line {
+	border-bottom: 2px solid $text !important;
+  }
