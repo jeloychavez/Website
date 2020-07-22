@@ -15,7 +15,7 @@ Donwload Grape Theme [here](https://github.com/naye0ng/Grape-Theme)
 
 [Original demo](https://grape-theme.netlify.com)
 <br>
-[My custum blog](https://tanx.dev)
+[My custom blog](https://tanx.dev)
 
 Run the Jekyll server
 
