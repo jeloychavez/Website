@@ -5,4 +5,3 @@ gemspec
 gem 'github-pages'
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
-gem 'jekyll-target-blank', '~> 2.0'

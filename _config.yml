@@ -46,9 +46,9 @@ paginate_path: "blog/page:num"
 sass:
   sass_dir: _sass
   style: :compressed
-gems: [jekyll-paginate, jekyll-sitemap,jekyll-target-blank]
+gems: [jekyll-paginate, jekyll-sitemap]
 plugins:
   - jekyll-sitemap
-  - jekyll-target-blank
+  - jekyll-paginate
 bootstrap:
   assets: true
