@@ -14,12 +14,12 @@ theme_settings :
     username : Tania R. Zúñiga
     description : Computer Engineering student at Universidad Autónoma Metropolitana. 
     experience :
-      - start : 2020-05-04
+      - start : 04 / 05 / 2020
         end : Until now
         experience : UAM, PAEA Facilitator
     skills : 
       - skill : BS in Computer Engineering
-        value : 41.6 # Percent value
+        value : 50 # Percent value
      
         
   # Icons
@@ -27,7 +27,7 @@ theme_settings :
     email: tania@tanx.dev  # Full email address, e.g. "sample@google.com"
     linkedin: https://www.linkedin.com/in/tania-r-zuniga/ # Full URL 
     github: TanZng
-    gitlab: 
+    gitlab: tanx.dev
     bitbucket: 
     google_plus:
     twitter: tanx_dev
@@ -46,8 +46,9 @@ paginate_path: "blog/page:num"
 sass:
   sass_dir: _sass
   style: :compressed
-gems: [jekyll-paginate, jekyll-sitemap]
+gems: [jekyll-paginate, jekyll-sitemap,jekyll-target-blank]
 plugins:
   - jekyll-sitemap
+  - jekyll-target-blank
 bootstrap:
   assets: true
