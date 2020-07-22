@@ -1,39 +1,88 @@
-- project :
+- project : # BLOG
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://github.com/naye0ng/Grape-Theme # Full URL
-    image : "portfolio.png" # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Grape-Theme
-    summary : I customize this awesome jekyll theme!
-    description : This project is @naye0ng 's first jekyll theme. and everyone can customize this easily as I did.  
+    url : https://github.com/TanZng/tanzng.github.io # Full URL
+    image : "blog/default.png" # path: assets/project/
+    date : 30 / 04 / 2020 - Developing
+    title : tan(x) blog and porfolio
+    summary : This project is a fork from <a href="https://github.com/naye0ng/Grape-Theme" style="color:rgb(105, 181, 247)" >@naye0ng 's</a> Grape Theme, 
+              and everyone can customize this easily as I did. 
+    description : On this web I write about things that I find interesting, and I also share my projects!
     contents :
-        - title : 1. 블로그 첫 화면 구성 / Blog Home
-          image : home.png
+        - title : 1. Cool things about this theme 😎
+          image : blog/phone.png
           description : <li>Responsive Layout</li>
-            <li>User Profile</li> 
-            <li>Tags</li> 
-            <li>Projects</li> 
-            <li>Pagination</li>
-        - title : 2. 태그 페이지 / Tag page
-          image : tags.png
-          description : <li>Responsive Layout</li> 
-            <li>Tags</li> 
-        - title : 3. 남은 개발 과제 / Remaining development tasks
-          image :
-          description : <li>project 부분 디자인 변경</li>
-            <li>favicon.ico, search 기능</li>
-            <li>OG Tag 추가</li>
-            <li>profile image effect / 이미지 효과 </li>
-            <li>gem distribute / 배포</li> 
+                        <li>User Profile</li> 
+                        <li>Tags</li> 
+                        <li>Projects</li> 
+                        <li>Pagination</li>
+        - title : 2. Why is the blog in Spanish? 🤔
+          description : Because I want to contribute to the Spanish-speaking community. 
+                        I think there are many resources in English (which is great)
+                        compared to those in Spanish.
+                        This language difference may limits a lot of people who only speak Spanish. 
 
-- project :
+        - title : 3. Remaining development tasks 🔨
+          image : blog/home.png
+          description : <li>Add projects</li>
+                        <li>Write more post!</li>
+                        <li>Add Search</li>
+                        <li>Profile image effect</li>
+                        <li>Gem distribute</li> 
+
+
+- project : # GOOGLE IT CERTIFICATE
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  # Full URL
     image : # path: assets/project/
-    date : 2020.04.25 - Learning
+    date : 25 / 04 / 2020- Learning
     title : Google IT Automation with Python Professional Certificate
     summary : Right now I'm improving my skill on Python.
     description : Taking Google IT Automation with Python Professional Certificate on Coursera
+ 
+
+
+- project : # Dijkstra
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  https://github.com/TanZng/dijkstras-shortest-path
+    image : "shortest-path/graph-template.png"
+    date : 25 / 06 / 2020- Developing
+    title : Graph plot of Dijkstra's shortest path
+    description : Simple web application that plots the shortest path obtained from the Dijkstra's algorithm
+    summary : This project is made with Flask, Plotly and Python. 
+              The shortest path of Graph is obtained by using the Dijkstra's algorithm, implemented in Python.
+    contents :
+        - title : Usage
+          image: shortest-path/web_alpha.png
+          description : This web plots any graph from a given .txt file.
+                        <br>
+                        The file should have the next format
+                        <p>5</p>
+                        <p>1	2	1</p>
+                        <p>1	4	4</p>
+                        <p>2	3	2</p>
+                        <p>2	4	2</p>
+                        <p>3	4	2</p>
+                        <p>4	5	1</p>
+                        <p>5	3	1</p>
+                        The app is going to plot the Graph and 
+                        highlight with red the the shortest path obtained from the algorithm.
+                        <br>
+                        You can give the node where to start and where to finish, on the input
+                        boxes.
+
+        - title: To do list
+          image: shortest-path/node.png
+          description:  
+                        <li>Upload the web app.</li>
+                        <li>Add "How to use" on the README.</li>
+                        <li>Add simple CONTRIBUTING.md</li>
+                        <li>Make it responsive.</li>
+                        <li>Add CSS Style.</li>
+                        <li>Choose the color of the highlight.</li>
+                        <li>Write a Post about this.</li>
+                        Feel free to contribute. I am open to suggestion.
+                        
 
