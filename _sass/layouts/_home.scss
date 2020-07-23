@@ -111,16 +111,16 @@
         width: 35px;
         height: 35px;
         margin-right: 10px;
-        border: 2px solid rgba(0,0,0,0.07);
+        border: 2px solid $next_pag;
         border-radius: 50%;
-        color: rgba(0,0,0,0.54);
+        color: $next_pag;
         font-size: 0.8rem;
         font-weight: 600;
         line-height: 30px;
     }
     li.prev, li.next {
-        background-color: rgba(0,0,0,0.07);
-        border: 2px solid rgba(0,0,0,0.0);
+        background-color: $simple_code;
+        border: 2px solid $simple_code;
     }
 
     li.btn-rounded:hover{

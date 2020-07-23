@@ -1,6 +1,6 @@
 *{
 	-webkit-text-size-adjust:none;
-	font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Sans-serif';
+	font-family: 'Spoqa Han Sans', 'Spoqa Han Sans JP', 'Noto Sans','Sans-serif';
 	box-sizing: border-box;
 }
 html, body{height:100%;}
@@ -175,6 +175,26 @@ a:link, a:visited, a:active, a:hover {
 		}
 	}
 
+}
+
+#estus-flask{
+	.return-btn {
+		color : rgb(248, 248, 248);
+		p {
+			display: inline-block;
+			padding: 10px 30px;
+			margin-top: 30px;
+			border-radius: 15px;
+			font-weight: 600;
+			background-color: $theme-color ;
+		}
+		}
+	.return-btn:hover{ 
+		p{
+			background-color: $theme-dark2;
+			color : #fff;
+		}
+	}
 }
 
 .blinking-cursor {
