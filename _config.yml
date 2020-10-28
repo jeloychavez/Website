@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: ""
-url : "https://tanx.dev"
+url : "https://www.tanx.dev"
 
 # Blog Settings
 theme_settings :
