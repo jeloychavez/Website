@@ -56,8 +56,8 @@
           description : GeekMetrik is a scalable system that adapts to the expression needs of the Geek community with an innovative approach.
                         <li> Unregistered users can read. </li>
                         <li> Users can signup and login. </li>
-                        <li> Users can review videogames. </li>
-                        <li> Customizable profile for users. </li>
+                        <li> Logged users can review videogames. </li>
+                        <li> Customizable profile for logged users. </li>
                         <li> CRUD system for admins. </li> 
 
 - project : # Dijkstra
