@@ -1,5 +1,5 @@
 - project : # BLOG
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : https://github.com/TanZng/tanzng.github.io # Full URL
     image : "blog/default.png" # path: assets/project/
@@ -41,7 +41,18 @@
     summary : Right now I'm improving my skill on Python.
     description : Taking Google IT Automation with Python Professional Certificate on Coursera
  
-
+- project : # GeekMetrik
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url :  https://github.com/TanZng/GeekMetrik
+    image : "java/geek-template.png"
+    date : 31 / 08 / 2020 - 13 / 11 / 2020
+    title : GeekMetrik
+    description : Projectx developed during the course Object-oriented analysis and design 20-P 
+    summary : This project is made with Java 11, Maven and MySQL. 
+              GeekMetrik is a scalable system that adapts to the expression needs of the Geek community with an innovative approach
+              GeekMetrik is a simple project that pretends to be a page to review videogames. Users can SignUp and Login. 
+              Admins can manage videogames, users and reviews, because GeekMetrik has a CRUD system for admins.
 
 - project : # Dijkstra
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
