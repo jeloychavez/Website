@@ -48,11 +48,16 @@
     image : "java/geek-template.png"
     date : 31 / 08 / 2020 - 13 / 11 / 2020
     title : GeekMetrik
-    description : Projectx developed during the course Object-oriented analysis and design 20-P 
-    summary : This project is made with Java 11, Maven and MySQL. 
-              GeekMetrik is a scalable system that adapts to the expression needs of the Geek community with an innovative approach
-              GeekMetrik is a simple project that pretends to be a page to review videogames. Users can SignUp and Login. 
-              Admins can manage videogames, users and reviews, because GeekMetrik has a CRUD system for admins.
+    description : Project developed during the course Object-oriented analysis and design 20-P
+    summary : This project is made with Java 11, Maven and MySQL; using MVC architecture.
+              This simple project pretends to be an application to review videogames.
+    contents :
+        - title : Features
+          description : GeekMetrik is a scalable system that adapts to the expression needs of the Geek community with an innovative approach.
+                        <li> Users can signup and login. </li>
+                        <li> Users can review videogames. </li>
+                        <li> Customizable profile for users. </li>
+                        <li> CRUD system for admins. </li> 
 
 - project : # Dijkstra
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
