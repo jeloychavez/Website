@@ -14,8 +14,11 @@ theme_settings :
     username : Tania R. Zúñiga
     description : Computer Engineering student at Universidad Autónoma Metropolitana. 
     experience :
-      - start : 04 / 05 / 2020
+      - start : 24 / 11 / 2020
         end : Until now
+        experience : UAM, School Monitor
+      - start : 04 / 05 / 2020
+        end : 13 / 11 / 2020
         experience : UAM, PAEA Facilitator
     skills : 
       - skill : BS in Computer Engineering
