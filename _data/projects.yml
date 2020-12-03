@@ -36,7 +36,7 @@
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  https://github.com/TanZng/Automating-Real-World-Tasks-with-Python
     image : "GoogleIT/google-it-automation-professional-certificate.png"
-    date : 25 / 04 / 2020- 02 / 12 / 2020
+    date : 25 / 04 / 2020 - 02 / 12 / 2020
     title : Google IT Automation with Python Professional Certificate
     summary : 
     description :
@@ -70,7 +70,7 @@
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  https://github.com/TanZng/dijkstras-shortest-path
     image : "shortest-path/graph-template.png"
-    date : 25 / 06 / 2020- Developing
+    date : 25 / 06 / 2020 - Developing
     title : Graph plot of Dijkstra's shortest path
     description : Simple web application that plots the shortest path obtained from the Dijkstra's algorithm
     summary : This project is made with Flask, Plotly and Python. 
