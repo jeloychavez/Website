@@ -34,12 +34,12 @@
 - project : # GOOGLE IT CERTIFICATE
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
+    url :  https://github.com/TanZng/Automating-Real-World-Tasks-with-Python
     image : # path: assets/project/
-    date : 25 / 04 / 2020- Learning
+    date : 25 / 04 / 2020- 02 / 12 / 2020
     title : Google IT Automation with Python Professional Certificate
-    summary : Right now I'm improving my skill on Python.
-    description : Taking Google IT Automation with Python Professional Certificate on Coursera
+    summary :
+    description :
  
 - project : # GeekMetrik
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
