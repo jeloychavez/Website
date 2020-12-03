@@ -2,7 +2,7 @@
     print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : https://github.com/TanZng/tanzng.github.io # Full URL
-    image : "blog/default.png" # path: assets/project/
+    image : "blog/home.png" # path: assets/project/
     date : 30 / 04 / 2020 - Developing
     title : tan(x) blog and porfolio
     summary : This project is a fork from <a href="https://github.com/naye0ng/Grape-Theme" style="color:rgb(105, 181, 247)" >@naye0ng 's</a> Grape Theme, 
@@ -35,12 +35,17 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url :  https://github.com/TanZng/Automating-Real-World-Tasks-with-Python
-    image : # path: assets/project/
+    image : "GoogleIT/google-it-automation-professional-certificate.png"
     date : 25 / 04 / 2020- 02 / 12 / 2020
     title : Google IT Automation with Python Professional Certificate
-    summary :
+    summary : 
     description :
- 
+    contents :
+        - title : View my work on
+          description : <a class = "link" rel="nofollow noopener noreferrer" target="_blank" href="https://www.youracclaim.com/badges/0c229249-ab2d-426c-b3b0-c96a4cb5057f/public_url">CClaim</a> </br>
+                        <a class = "link" rel="nofollow noopener noreferrer" target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/RNSPVGE2XB58">Coursera</a> </br>
+                        <a class = "link" rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/TanZng/Automating-Real-World-Tasks-with-Python/">GitHub</a>
+
 - project : # GeekMetrik
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
