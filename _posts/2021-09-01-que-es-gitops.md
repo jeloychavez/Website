@@ -59,17 +59,17 @@ Para los desarrolladores de código, este flujo es familiar, ¿cierto? Pero el f
 
 <br>
 
-<h3>Modelo *Push*</h3>
+<h3>Modelo Push</h3>
 
 <br>
 
-Usamos Modelo Push cuando nuestro servidor de CI/CD ejecuta un (adivina)... *push* en git para enviar el código con los cambios al entorno de producción. 🥳
+Usamos Modelo Push cuando nuestro servidor de CI/CD ejecuta un *push* (¿tiene sentido no?) en git para enviar el código con los cambios al entorno de producción. 🥳
 
 ![Push_Model]({{ site.baseurl }}/assets/img/que-es-gitops/GitOps-Push Model.png)
 
 <br>
 
-<h3>Modelo *Pull*</h3>
+<h3>Modelo Pull</h3>
 
 <br>
 
