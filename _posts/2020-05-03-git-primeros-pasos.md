@@ -2,7 +2,7 @@
 layout: post
 title: Primeros pasos en Git
 subtitle : conceptos que necesitamos aprender para comprender cómo se organizan las cosas y cómo se rastrean nuestros archivos con Git.
-tags: [Git/Github]
+tags: [Git/GitHub]
 author: Tania R. Zúñiga
 comments : true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moderniza Xubuntu 🐭
+title: Moderniza Xubuntu 🐁
 subtitle : Dale un aspecto moderno a Xubuntu 20.04
 tags: [Linux]
 author: Tania R. Zúñiga
