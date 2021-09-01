@@ -2,7 +2,7 @@
 layout: post
 title: ¿Cómo viajar en el tiempo con Git?
 subtitle : Deshacer cambios en Git
-tags: [Git/GitHub]
+tags: [Git]
 author: Tania R. Zúñiga
 comments : true
 ---

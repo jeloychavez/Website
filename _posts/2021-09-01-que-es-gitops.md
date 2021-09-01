@@ -2,7 +2,7 @@
 layout: post
 title: ¿Qué es GitOps?
 subtitle : GitOps es la forma correcta de administrar tu Infraestructura como Código (IaC). Es muy importante que le des amor a la infraestructura como código, de la misma forma que cuidas al código de tu aplicación.
-tags: [Git/GitHub, DevOps]
+tags: [Git, DevOps]
 author: Tania R. Zúñiga
 comments : true
 ---
@@ -150,4 +150,4 @@ Por otro lado, es posible que ya estés usando GitOps en tu proyecto, pero si a�
 
 ![es_hora_de_hacerlo]({{ site.baseurl }}/assets/img/que-es-gitops/time-to-do-it-its-time.gif)
 
-Puedes leer este post en inglés en [https://www.gitkraken.com/blog](https://www.gitkraken.com/blog)
+Puedes leer este post en inglés en el [GitKraken Blog](https://www.gitkraken.com/blog/what-is-gitops)

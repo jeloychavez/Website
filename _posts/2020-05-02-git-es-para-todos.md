@@ -2,7 +2,7 @@
 layout: post
 title: Git NO solo es para desarrolladores
 subtitle : Te vengo a contar como sacarle provecho a Git y Github sin ser desarrollador de código.
-tags: [Git/GitHub]
+tags: [Git]
 author: Tania R. Zúñiga
 comments : true
 ---
