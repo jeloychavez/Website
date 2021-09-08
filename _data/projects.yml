@@ -5,7 +5,7 @@
     image : "blog/web.png" # path: assets/project/
     date : 08 / 09 / 2021 - Implement
     title : Eloy Chavez blog and porfolio
-    summary : This project is a fork from <a href="https://github.com/naye0ng/Grape-Theme" style="color:rgb(105, 181, 247)" >@naye0ng 's</a> Grape Theme, 
+    summary : This project is a fork from <a href="https://github.com/TanZng/tanzng.github.io" style="color:rgb(105, 181, 247)" >@TanZng 's</a> Grape Theme, 
               and everyone can customize this easily as I did. 
     description : On this web I write about things that I find interesting, and I also share my projects!
     contents :
@@ -26,9 +26,7 @@
           image : blog/web.png
           description : <li>Add projects</li>
                         <li>Write more post!</li>
-                        <li>Add Search</li>
-                        <li>Profile image effect</li>
-                        <li>Gem distribute</li> 
+                        <li>Add Search</li> 
 
 
 

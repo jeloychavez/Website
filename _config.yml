@@ -18,8 +18,10 @@ theme_settings :
         end : Until now
         experience : UCA, Systems Assistant
     skills : 
-      - skill : BS in Computer Engineering
-        # value : 75 # Percent value
+      - skill : Google Cloud Platform
+         value : 12.5 # Percent value
+      - skill : JS Challenge
+         value : 60
      
         
   # Icons
