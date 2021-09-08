@@ -1,10 +1,10 @@
 - project : # BLOG
-    print : False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://github.com/TanZng/tanzng.github.io # Full URL
-    image : "blog/home.png" # path: assets/project/
-    date : 30 / 04 / 2020 - Developing
-    title : tan(x) blog and porfolio
+    url : https://github.com/jeloychavez/website # Full URL
+    image : "assets/project/blog/home.png" # path: assets/project/
+    date : 08 / 09 / 2021 - Implement
+    title : Eloy Chavez blog and porfolio
     summary : This project is a fork from <a href="https://github.com/naye0ng/Grape-Theme" style="color:rgb(105, 181, 247)" >@naye0ng 's</a> Grape Theme, 
               and everyone can customize this easily as I did. 
     description : On this web I write about things that I find interesting, and I also share my projects!
@@ -31,80 +31,6 @@
                         <li>Gem distribute</li> 
 
 
-- project : # GOOGLE IT CERTIFICATE
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  https://github.com/TanZng/Automating-Real-World-Tasks-with-Python
-    image : "GoogleIT/google-it-automation-professional-certificate.png"
-    date : 25 / 04 / 2020 - 02 / 12 / 2020
-    title : Google IT Automation with Python Professional Certificate
-    summary : 
-    description :
-    contents :
-        - title : View my work on
-          description : <a class = "link" rel="nofollow noopener noreferrer" target="_blank" href="https://www.youracclaim.com/badges/0c229249-ab2d-426c-b3b0-c96a4cb5057f/public_url">CClaim</a> </br>
-                        <a class = "link" rel="nofollow noopener noreferrer" target="_blank" href="https://www.coursera.org/account/accomplishments/specialization/certificate/RNSPVGE2XB58">Coursera</a> </br>
-                        <a class = "link" rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/TanZng/Automating-Real-World-Tasks-with-Python/">GitHub</a>
 
-- project : # GeekMetrik
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  https://github.com/TanZng/GeekMetrik
-    image : "java/geek-template.png"
-    date : 31 / 08 / 2020 - 13 / 11 / 2020
-    title : GeekMetrik
-    description : Project developed during the course Object-oriented analysis and design 20-P
-    summary : This project is made with Java 11, Maven and MySQL; using MVC architecture.
-              This simple project pretends to be an application to review videogames.
-    contents :
-        - title : Features
-          description : GeekMetrik is a scalable system that adapts to the expression needs of the Geek community with an innovative approach.
-                        <li> Unregistered users can read. </li>
-                        <li> Users can signup and login. </li>
-                        <li> Logged users can review videogames. </li>
-                        <li> Customizable profile for logged users. </li>
-                        <li> CRUD system for admins. </li> 
-
-- project : # Dijkstra
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  https://github.com/TanZng/dijkstras-shortest-path
-    image : "shortest-path/graph-template.png"
-    date : 25 / 06 / 2020 - Developing
-    title : Graph plot of Dijkstra's shortest path
-    description : Simple web application that plots the shortest path obtained from the Dijkstra's algorithm
-    summary : This project is made with Flask, Plotly and Python. 
-              The shortest path of Graph is obtained by using the Dijkstra's algorithm, implemented in Python.
-    contents :
-        - title : Usage
-          image: shortest-path/web_alpha.png
-          description : This web plots any graph from a given .txt file.
-                        <br>
-                        The file should have the next format
-                        <p>5</p>
-                        <p>1	2	1</p>
-                        <p>1	4	4</p>
-                        <p>2	3	2</p>
-                        <p>2	4	2</p>
-                        <p>3	4	2</p>
-                        <p>4	5	1</p>
-                        <p>5	3	1</p>
-                        The app is going to plot the Graph and 
-                        highlight with red the the shortest path obtained from the algorithm.
-                        <br>
-                        You can give the node where to start and where to finish, on the input
-                        boxes.
-
-        - title: To do list
-          image: shortest-path/node.png
-          description:  
-                        <li>Upload the web app.</li>
-                        <li>Add "How to use" on the README.</li>
-                        <li>Add simple CONTRIBUTING.md</li>
-                        <li>Make it responsive.</li>
-                        <li>Add CSS Style.</li>
-                        <li>Choose the color of the highlight.</li>
-                        <li>Write a Post about this.</li>
-                        Feel free to contribute. I am open to suggestion.
                         
 
