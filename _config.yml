@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: ""
-url : "https://jeloychavez.github.io/tanzng.github.io/"
+url : "https://jeloychavez.github.io"
 
 # Blog Settings
 theme_settings :
@@ -14,12 +14,9 @@ theme_settings :
     username : Eloy Chavez
     description : Developer student Platzi. 
     experience :
-      - start : 28 / 06 / 2021
+      - start :  03 / 2020
         end : Until now
-        experience : UAM, School Monitor
-      - start : 04 / 05 / 2020
-        end : 13 / 11 / 2020
-        experience : UAM, PAEA Facilitator
+        experience : UCA, Systems Assistant
     skills : 
       - skill : BS in Computer Engineering
         # value : 75 # Percent value
