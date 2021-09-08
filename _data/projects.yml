@@ -2,7 +2,7 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : https://github.com/jeloychavez/website # Full URL
-    image : "blog/home.png" # path: assets/project/
+    image : "blog/web.png" # path: assets/project/
     date : 08 / 09 / 2021 - Implement
     title : Eloy Chavez blog and porfolio
     summary : This project is a fork from <a href="https://github.com/naye0ng/Grape-Theme" style="color:rgb(105, 181, 247)" >@naye0ng 's</a> Grape Theme, 
@@ -10,7 +10,7 @@
     description : On this web I write about things that I find interesting, and I also share my projects!
     contents :
         - title : 1. Cool things about this theme 😎
-          image : blog/phone.png
+          image : blog/web.png
           description : <li>Responsive Layout</li>
                         <li>User Profile</li> 
                         <li>Tags</li> 
@@ -23,7 +23,7 @@
                         This language difference may limits a lot of people who only speak Spanish. 
 
         - title : 3. Remaining development tasks 🔨
-          image : blog/home.png
+          image : blog/web.png
           description : <li>Add projects</li>
                         <li>Write more post!</li>
                         <li>Add Search</li>
