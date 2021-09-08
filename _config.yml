@@ -4,17 +4,17 @@ url : "https://jeloychavez.github.io/tanzng.github.io/"
 
 # Blog Settings
 theme_settings :
-  title : tan(x)
+  title : Eloy_dev
   favicon : assets/favicon.ico
-  blog : "> tan(x) blog "
+  blog : "> Eloy_Dev-Blog "
 
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Tania R. Zúñiga
-    description : Computer Engineering student at Universidad Autónoma Metropolitana. 
+    username : Eloy Chavez
+    description : Developer student Platzi. 
     experience :
-      - start : 24 / 11 / 2020
+      - start : 28 / 06 / 2021
         end : Until now
         experience : UAM, School Monitor
       - start : 04 / 05 / 2020
@@ -22,7 +22,7 @@ theme_settings :
         experience : UAM, PAEA Facilitator
     skills : 
       - skill : BS in Computer Engineering
-        value : 75 # Percent value
+        # value : 75 # Percent value
      
         
   # Icons
