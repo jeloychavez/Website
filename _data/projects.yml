@@ -2,7 +2,7 @@
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url : https://github.com/jeloychavez/website # Full URL
-    image : "assets/project/blog/home.png" # path: assets/project/
+    image : "blog/home.png" # path: assets/project/
     date : 08 / 09 / 2021 - Implement
     title : Eloy Chavez blog and porfolio
     summary : This project is a fork from <a href="https://github.com/naye0ng/Grape-Theme" style="color:rgb(105, 181, 247)" >@naye0ng 's</a> Grape Theme, 
