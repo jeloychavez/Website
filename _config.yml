@@ -19,9 +19,9 @@ theme_settings :
         experience : UCA, Systems Assistant
     skills : 
       - skill : Google Cloud Platform
-         value : 12.5 # Percent value
+         value : 12.5% # Percent value
       - skill : JS Challenge
-         value : 60
+         value : 60%
      
         
   # Icons
