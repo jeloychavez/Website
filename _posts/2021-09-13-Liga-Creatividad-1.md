@@ -7,7 +7,7 @@ author: Eloy Chavez
 comments : true
 ---
 
-El dia de hoy comienza esta nueva aventura llamada [La Liga de la Creatividad](https://platzi.com/blog/liga-creatividad-platzi/) la cual consiste en diseñar tu versión superpoderosa animada para cómic en 10 días.
+🦸‍♂️ El dia de hoy comienza esta nueva aventura llamada [La Liga de la Creatividad](https://platzi.com/blog/liga-creatividad-platzi/) la cual consiste en diseñar tu versión superpoderosa animada para cómic en 10 días.
 
 <br>
 
